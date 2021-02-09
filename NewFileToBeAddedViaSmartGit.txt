@@ -1,9 +1,9 @@
 Add via SmartGit
 
-Adding a new log to this file
-
 Adding a new statement at 1751hrs February 9th
 
 Adding new log at 1802 hrs 
 
 Adding new log at 1816 hrs 
+
+Adding a new log at 1824hrs February 9th
