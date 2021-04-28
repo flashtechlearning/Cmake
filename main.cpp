@@ -15,6 +15,8 @@ int main()
 
 	cout << adder(12 , 15) << endl;
 
+	cout << adder(100 , 15) << endl;
+
 	cout << "The 2nd part included learning of libraries" << endl;
 	return 0;
 
