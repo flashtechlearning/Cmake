@@ -1,1 +1,0 @@
-add_library(calculators_adder calculator.cpp)
